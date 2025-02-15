@@ -1,0 +1,14 @@
+/Users/eleneurushadze/C#/algorithms/bin/Debug/net9.0/algorithms
+/Users/eleneurushadze/C#/algorithms/bin/Debug/net9.0/algorithms.deps.json
+/Users/eleneurushadze/C#/algorithms/bin/Debug/net9.0/algorithms.runtimeconfig.json
+/Users/eleneurushadze/C#/algorithms/bin/Debug/net9.0/algorithms.dll
+/Users/eleneurushadze/C#/algorithms/bin/Debug/net9.0/algorithms.pdb
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.AssemblyInfoInputs.cache
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.AssemblyInfo.cs
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.csproj.CoreCompileInputs.cache
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.dll
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/refint/algorithms.dll
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.pdb
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/algorithms.genruntimeconfig.cache
+/Users/eleneurushadze/C#/algorithms/obj/Debug/net9.0/ref/algorithms.dll
