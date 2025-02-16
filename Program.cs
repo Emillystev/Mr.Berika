@@ -41,13 +41,6 @@ public class HelloWorld
 
 
 
-
-/////////////////////////////////////////////////////////////////// // Practice 5 დავწეროთ კონსოლ აპლიკაცია სადაც გადავცემთ დაბადების დღეს და თვეს და დაგვიბრუნებს ჩვენს ზოდიაქოს. //////////////////////////////////////////////////////////////////
-
-
-
-
-
         // // Practice 4 დავწეროთ კონსოლ აპლიკაცია სადაც მომხმარებელი შეიტანს დაბადების წელს და ეტყვის ჩინური კალენდრის მიხედვით რის წელიწადშია დაბადებული.
         // Console.Write("enter a birth year: ");
         // int year = Convert.ToInt32(Console.ReadLine());
@@ -430,6 +423,14 @@ public class HelloWorld
         // int count = NumberOfNumbers(input);
         // string returnText = ReturnText(length, count, input);
         // Console.WriteLine(returnText);
+
+
+
+
+
+
+
+
 
         // int i = 0;
         // for(; i < 5;)
